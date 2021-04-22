@@ -6,18 +6,18 @@
   <Name>com.vendor.product</Name>
   <DisplayName>个人学习监管</DisplayName>
   <Description>个人学习监管-测试版本</Description>
-  <Version>1.0.1</Version>
+  <Version>2.0.1</Version>
   <ReleaseDate>2021-04-09</ReleaseDate>
   <Default>script</Default>
   <Script>installscript.qs</Script>
-  <UpdateFile OS="Any" UncompressedSize="123" CompressedSize="509"/>
+  <UpdateFile CompressedSize="509" UncompressedSize="123" OS="Any"/>
   <DownloadableArchives>111.7z,222.7z,content.7z</DownloadableArchives>
   <UserInterfaces>page.ui</UserInterfaces>
   <Licenses>
-   <License file="license.txt" name="Public License Agreement"/>
+   <License name="Public License Agreement" file="license.txt"/>
   </Licenses>
-  <SHA1>d3bb4ce0119fd0668fbbf240861726a62fd33650</SHA1>
+  <SHA1>01b9733332e1449f24a78f46bad6315eb3f6a384</SHA1>
  </PackageUpdate>
- <SHA1>d3bb4ce0119fd0668fbbf240861726a62fd33650</SHA1>
- <MetadataName>2021-04-22-2139_meta.7z</MetadataName>
+ <SHA1>01b9733332e1449f24a78f46bad6315eb3f6a384</SHA1>
+ <MetadataName>2021-04-22-2155_meta.7z</MetadataName>
 </Updates>
