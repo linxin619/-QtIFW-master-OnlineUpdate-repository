@@ -1,0 +1,23 @@
+<Updates>
+ <ApplicationName>{AnyApplication}</ApplicationName>
+ <ApplicationVersion>1.0.0</ApplicationVersion>
+ <Checksum>true</Checksum>
+ <PackageUpdate>
+  <Name>com.vendor.product</Name>
+  <DisplayName>知了</DisplayName>
+  <Description>知了-测试版本</Description>
+  <Version>0.0.2</Version>
+  <ReleaseDate>2021-04-22</ReleaseDate>
+  <Default>script</Default>
+  <Script>installscript.qs</Script>
+  <UpdateFile OS="Any" CompressedSize="30169368" UncompressedSize="120117075"/>
+  <DownloadableArchives>audio.7z,bearer.7z,iconengines.7z,imageformats.7z,mediaservice.7z,platforms.7z,playlistformats.7z,script.7z,translations.7z,content.7z</DownloadableArchives>
+  <UserInterfaces>targetwidget.ui</UserInterfaces>
+  <Licenses>
+   <License file="license.txt" name="Public License Agreement"/>
+  </Licenses>
+  <SHA1>f92c244f34c0d1d84c842baacac7c1db2d18cc22</SHA1>
+ </PackageUpdate>
+ <SHA1>f92c244f34c0d1d84c842baacac7c1db2d18cc22</SHA1>
+ <MetadataName>2021-04-24-1629_meta.7z</MetadataName>
+</Updates>
